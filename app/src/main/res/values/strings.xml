@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BINARBINARIAHYA_1202152323_studycase4</string>
+    <string-array name="namaMhs">
+        <item>Binar Binari Ahya</item>
+        <item>Irmayanti Syam</item>
+        <item>I Dewa Ayu Lalita Marmika</item>
+        <item>Ira Syafirah Fauziah</item>
+        <item>Jimly Asshiddiqy</item>
+        <item>Regina Yusticia Firdaus</item>
+        <item>Rizki Anik</item>
+        <item>Yudha Bhakti Islami</item>
+        <item>Abel Junando</item>
+        <item>Tiara Sabrina</item>
+        <item>Fiqih Muhammad Haekal</item>
+        <item>Achmad Muhaimin Aziz</item>
+        <item>Rai Adi Krisna</item>
+    </string-array>
+</resources>
